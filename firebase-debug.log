@@ -1,0 +1,527 @@
+[debug] [2025-05-15T03:09:27.820Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:09:27.822Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:09:27.822Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:09:27.822Z] Platform:      win32
+[debug] [2025-05-15T03:09:27.822Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:09:27.822Z] Time:          Wed May 14 2025 23:09:27 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:09:27.823Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:09:27.826Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:09:27.827Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[debug] [2025-05-15T03:10:15.237Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:10:15.239Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:10:15.239Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:10:15.240Z] Platform:      win32
+[debug] [2025-05-15T03:10:15.240Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:10:15.240Z] Time:          Wed May 14 2025 23:10:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:10:15.240Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:10:15.243Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:10:15.244Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[debug] [2025-05-15T03:18:55.496Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:18:55.498Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:18:55.498Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:18:55.498Z] Platform:      win32
+[debug] [2025-05-15T03:18:55.498Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:18:55.498Z] Time:          Wed May 14 2025 23:18:55 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:18:55.498Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:18:55.502Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:18:55.503Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:20:11.468Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:20:11.470Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:20:11.470Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:20:11.471Z] Platform:      win32
+[debug] [2025-05-15T03:20:11.471Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:20:11.471Z] Time:          Wed May 14 2025 23:20:11 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:20:11.471Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:20:11.475Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:20:11.475Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:20:22.408Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:22.408Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:22.410Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-05-15T03:20:22.888Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-05-15T03:20:22.888Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project creditcardtrackerapp (CreditCardTrackerApp) 
+[info] 
+=== Firestore Setup
+[debug] [2025-05-15T03:20:26.646Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:26.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:26.647Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [none]
+[debug] [2025-05-15T03:20:26.647Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:20:27.082Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com 200
+[debug] [2025-05-15T03:20:27.082Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-05-15T03:20:27.083Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:27.083Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:27.083Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) [none]
+[debug] [2025-05-15T03:20:27.429Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) 200
+[debug] [2025-05-15T03:20:27.429Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) {"name":"projects/creditcardtrackerapp/databases/(default)","uid":"11f8c3d0-b671-4dc3-9b15-42206da7a12b","createTime":"2025-05-13T04:58:17.923613Z","updateTime":"2025-05-13T04:58:17.923613Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-05-15T02:20:28.016716Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"etag":"IKKs1q3CpI0DMJ2Imr/Un40D"}
+[debug] [2025-05-15T03:20:27.429Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:20:27.429Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:20:27.430Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:20:27.430Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[debug] [2025-05-15T03:20:27.430Z] [iam] checking project creditcardtrackerapp for permissions ["firebase.projects.get"]
+[debug] [2025-05-15T03:20:27.430Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:27.430Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:27.430Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions [none]
+[debug] [2025-05-15T03:20:27.430Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:20:27.430Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[debug] [2025-05-15T03:20:27.660Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions 200
+[debug] [2025-05-15T03:20:27.660Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:20:38.042Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:38.042Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:38.042Z] >>> [apiv2][query] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases pageSize=10&pageToken=
+[debug] [2025-05-15T03:20:38.370Z] <<< [apiv2][status] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases 200
+[debug] [2025-05-15T03:20:38.370Z] <<< [apiv2][body] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases {"releases":[{"name":"projects/creditcardtrackerapp/releases/cloud.firestore","rulesetName":"projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6","createTime":"2025-05-13T04:58:22.570382Z","updateTime":"2025-05-13T04:58:22.570382Z"}]}
+[debug] [2025-05-15T03:20:38.371Z] Found ruleset: projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6
+[debug] [2025-05-15T03:20:38.371Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:38.371Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:38.371Z] >>> [apiv2][query] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 [none]
+[debug] [2025-05-15T03:20:38.536Z] <<< [apiv2][status] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 200
+[debug] [2025-05-15T03:20:38.536Z] <<< [apiv2][body] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 [omitted]
+[info] 
+[info] Firestore indexes allow you to perform complex queries while
+[info] maintaining performance that scales with the size of the result
+[info] set. You can keep index definitions in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:20:45.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:45.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:45.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:45.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:45.648Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes [none]
+[debug] [2025-05-15T03:20:45.649Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* [none]
+[debug] [2025-05-15T03:20:45.964Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes 200
+[debug] [2025-05-15T03:20:45.964Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes {}
+[debug] [2025-05-15T03:20:46.109Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* 200
+[debug] [2025-05-15T03:20:46.109Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* {"fields":[{"name":"projects/creditcardtrackerapp/databases/(default)/collectionGroups/__default__/fields/*","indexConfig":{"indexes":[{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","order":"ASCENDING"}],"state":"READY"},{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","order":"DESCENDING"}],"state":"READY"},{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","arrayConfig":"CONTAINS"}],"state":"READY"}]}}]}
+[info] 
+=== Hosting Setup
+[debug] [2025-05-15T03:20:46.111Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:46.111Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:20:46.111Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp [none]
+[debug] [2025-05-15T03:20:46.465Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp 200
+[debug] [2025-05-15T03:20:46.465Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp {"projectId":"creditcardtrackerapp","projectNumber":"936127293515","displayName":"CreditCardTrackerApp","name":"projects/creditcardtrackerapp","resources":{"hostingSite":"creditcardtrackerapp"},"state":"ACTIVE","etag":"1_37e25f8d-e254-403c-b0cd-6a8697518b50"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2025-05-15T03:22:05.617Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:22:05.619Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:22:05.619Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:22:05.619Z] Platform:      win32
+[debug] [2025-05-15T03:22:05.619Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:22:05.619Z] Time:          Wed May 14 2025 23:22:05 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:22:05.620Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:22:05.623Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:22:05.624Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:22:13.951Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:13.952Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:13.953Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-05-15T03:22:14.329Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-05-15T03:22:14.330Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project creditcardtrackerapp (CreditCardTrackerApp) 
+[info] 
+=== Firestore Setup
+[debug] [2025-05-15T03:22:15.393Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:15.393Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:15.393Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [none]
+[debug] [2025-05-15T03:22:15.393Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:22:15.817Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com 200
+[debug] [2025-05-15T03:22:15.818Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-05-15T03:22:15.818Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:15.818Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:15.818Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) [none]
+[debug] [2025-05-15T03:22:16.119Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) 200
+[debug] [2025-05-15T03:22:16.119Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) {"name":"projects/creditcardtrackerapp/databases/(default)","uid":"11f8c3d0-b671-4dc3-9b15-42206da7a12b","createTime":"2025-05-13T04:58:17.923613Z","updateTime":"2025-05-13T04:58:17.923613Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-05-15T02:22:16.708672Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"etag":"IKOwwOHCpI0DMK7qx7bCpI0D"}
+[debug] [2025-05-15T03:22:16.119Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:22:16.119Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:22:16.119Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:22:16.119Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[debug] [2025-05-15T03:22:16.120Z] [iam] checking project creditcardtrackerapp for permissions ["firebase.projects.get"]
+[debug] [2025-05-15T03:22:16.120Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:16.120Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:22:16.120Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions [none]
+[debug] [2025-05-15T03:22:16.120Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:22:16.120Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[debug] [2025-05-15T03:22:16.332Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions 200
+[debug] [2025-05-15T03:22:16.332Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:22:59.312Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:22:59.314Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:22:59.315Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:22:59.315Z] Platform:      win32
+[debug] [2025-05-15T03:22:59.315Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:22:59.315Z] Time:          Wed May 14 2025 23:22:59 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:22:59.315Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:22:59.319Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:22:59.320Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:23:09.042Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:09.042Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:09.043Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-05-15T03:23:09.425Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-05-15T03:23:09.425Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project creditcardtrackerapp (CreditCardTrackerApp) 
+[info] 
+=== Firestore Setup
+[debug] [2025-05-15T03:23:10.048Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.048Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.048Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [none]
+[debug] [2025-05-15T03:23:10.048Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:23:10.392Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com 200
+[debug] [2025-05-15T03:23:10.392Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-05-15T03:23:10.393Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.393Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.393Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) [none]
+[debug] [2025-05-15T03:23:10.646Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) 200
+[debug] [2025-05-15T03:23:10.646Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) {"name":"projects/creditcardtrackerapp/databases/(default)","uid":"11f8c3d0-b671-4dc3-9b15-42206da7a12b","createTime":"2025-05-13T04:58:17.923613Z","updateTime":"2025-05-13T04:58:17.923613Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-05-15T02:23:11.236383Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"etag":"IKC+wPvCpI0DMK7qx7bCpI0D"}
+[debug] [2025-05-15T03:23:10.646Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:23:10.646Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:23:10.646Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:23:10.647Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[debug] [2025-05-15T03:23:10.647Z] [iam] checking project creditcardtrackerapp for permissions ["firebase.projects.get"]
+[debug] [2025-05-15T03:23:10.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.647Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:10.647Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions [none]
+[debug] [2025-05-15T03:23:10.647Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:23:10.647Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[debug] [2025-05-15T03:23:10.861Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions 200
+[debug] [2025-05-15T03:23:10.861Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:23:18.931Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:18.931Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:18.931Z] >>> [apiv2][query] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases pageSize=10&pageToken=
+[debug] [2025-05-15T03:23:19.099Z] <<< [apiv2][status] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases 200
+[debug] [2025-05-15T03:23:19.099Z] <<< [apiv2][body] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/releases {"releases":[{"name":"projects/creditcardtrackerapp/releases/cloud.firestore","rulesetName":"projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6","createTime":"2025-05-13T04:58:22.570382Z","updateTime":"2025-05-13T04:58:22.570382Z"}]}
+[debug] [2025-05-15T03:23:19.099Z] Found ruleset: projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6
+[debug] [2025-05-15T03:23:19.099Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:19.099Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:19.099Z] >>> [apiv2][query] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 [none]
+[debug] [2025-05-15T03:23:19.266Z] <<< [apiv2][status] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 200
+[debug] [2025-05-15T03:23:19.266Z] <<< [apiv2][body] GET https://firebaserules.googleapis.com/v1/projects/creditcardtrackerapp/rulesets/626847e7-6a89-4d91-a697-fc0224d955a6 [omitted]
+[info] 
+[info] Firestore indexes allow you to perform complex queries while
+[info] maintaining performance that scales with the size of the result
+[info] set. You can keep index definitions in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[info] 
+=== Hosting Setup
+[debug] [2025-05-15T03:23:38.648Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:38.648Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:23:38.648Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp [none]
+[debug] [2025-05-15T03:23:38.953Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp 200
+[debug] [2025-05-15T03:23:38.953Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp {"projectId":"creditcardtrackerapp","projectNumber":"936127293515","displayName":"CreditCardTrackerApp","name":"projects/creditcardtrackerapp","resources":{"hostingSite":"creditcardtrackerapp"},"state":"ACTIVE","etag":"1_37e25f8d-e254-403c-b0cd-6a8697518b50"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2025-05-15T03:24:17.201Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2025-05-15T03:24:17.274Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2025-05-15T03:24:17.274Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"11.7.3","browserURL":"https://www.gstatic.com/firebasejs/11.7.3/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/11.7.3/firebase.tgz"},"live":{"version":"11.7","browserURL":"https://www.gstatic.com/firebasejs/live/11.7/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/11.7/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/11.7.3/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/11.7.3/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/11.7.3/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth/cordova.js","auth/web-extension":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth/web-extension.js","functions":"https://www.gstatic.com/firebasejs/11.7.3/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/11.7.3/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/11.7.3/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/11.7.3/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/11.7.3/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/11.7.3/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/11.7.3/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/11.7.3/firebase-database.js","vertexai":"https://www.gstatic.com/firebasejs/11.7.3/firebase-vertexai.js","data-connect":"https://www.gstatic.com/firebasejs/11.7.3/firebase-data-connect.js","firestore.memory":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore.memory.js"}}
+[debug] [2025-05-15T03:24:17.384Z] Error: ENOTDIR: not a directory, scandir 'C:\Users\kelvi\Documents\kelveloper\credit-card-tracker\build\web'
+    at Object.readdirSync (node:fs:1507:26)
+    at Object.createFileSync (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\fs-extra\lib\ensure\file.js:55:10)
+    at Config.writeProjectFile (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\config.js:162:12)
+    at Config.askWriteProjectFile (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\config.js:191:18)
+    at doSetup (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\features\hosting\index.js:156:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async init (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\index.js:41:9)
+    at async Command.initAction [as actionFn] (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\commands\init.js:187:5)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2025-05-15T03:24:46.280Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:24:46.282Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:24:46.282Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:24:46.282Z] Platform:      win32
+[debug] [2025-05-15T03:24:46.282Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:24:46.282Z] Time:          Wed May 14 2025 23:24:46 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:24:46.282Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:24:46.286Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:24:46.286Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:24:55.754Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:55.754Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:55.756Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-05-15T03:24:56.058Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-05-15T03:24:56.058Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project creditcardtrackerapp (CreditCardTrackerApp) 
+[info] 
+=== Firestore Setup
+[debug] [2025-05-15T03:24:56.767Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:56.767Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:56.767Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [none]
+[debug] [2025-05-15T03:24:56.767Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:24:57.137Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com 200
+[debug] [2025-05-15T03:24:57.137Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-05-15T03:24:57.137Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:57.137Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:57.137Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) [none]
+[debug] [2025-05-15T03:24:57.459Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) 200
+[debug] [2025-05-15T03:24:57.459Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) {"name":"projects/creditcardtrackerapp/databases/(default)","uid":"11f8c3d0-b671-4dc3-9b15-42206da7a12b","createTime":"2025-05-13T04:58:17.923613Z","updateTime":"2025-05-13T04:58:17.923613Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-05-15T02:24:58.052642Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"etag":"IPqCuK7DpI0DMK7qx7bCpI0D"}
+[debug] [2025-05-15T03:24:57.459Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:24:57.459Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:24:57.460Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:24:57.460Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[debug] [2025-05-15T03:24:57.460Z] [iam] checking project creditcardtrackerapp for permissions ["firebase.projects.get"]
+[debug] [2025-05-15T03:24:57.460Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:57.460Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:24:57.460Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions [none]
+[debug] [2025-05-15T03:24:57.460Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:24:57.460Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[debug] [2025-05-15T03:24:57.676Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions 200
+[debug] [2025-05-15T03:24:57.676Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:25:32.320Z] ExitPromptError: User force closed the prompt with SIGINT
+    at Interface.sigint (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\@inquirer\core\dist\commonjs\lib\create-prompt.js:100:37)
+    at Interface.emit (node:events:519:28)
+    at Interface.emit (node:domain:488:12)
+    at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1126:18)
+    at ReadStream.onkeypress (node:internal/readline/interface:265:20)
+    at ReadStream.emit (node:events:531:35)
+    at ReadStream.emit (node:domain:488:12)
+    at emitKeys (node:internal/readline/utils:371:14)
+    at emitKeys.next (<anonymous>)
+    at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2025-05-15T03:26:06.188Z] ----------------------------------------------------------------------
+[debug] [2025-05-15T03:26:06.191Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-15T03:26:06.191Z] CLI Version:   14.3.1
+[debug] [2025-05-15T03:26:06.191Z] Platform:      win32
+[debug] [2025-05-15T03:26:06.191Z] Node Version:  v20.16.0
+[debug] [2025-05-15T03:26:06.191Z] Time:          Wed May 14 2025 23:26:06 GMT-0400 (Eastern Daylight Time)
+[debug] [2025-05-15T03:26:06.191Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-15T03:26:06.195Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:26:06.195Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\kelvi\Documents\kelveloper\credit-card-tracker
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2025-05-15T03:26:13.030Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:13.030Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:13.032Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-05-15T03:26:13.436Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-05-15T03:26:13.437Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project creditcardtrackerapp (CreditCardTrackerApp) 
+[info] 
+=== Firestore Setup
+[debug] [2025-05-15T03:26:13.849Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:13.849Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:13.849Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [none]
+[debug] [2025-05-15T03:26:13.849Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:26:14.229Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com 200
+[debug] [2025-05-15T03:26:14.229Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/creditcardtrackerapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-05-15T03:26:14.230Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:14.230Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:14.230Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) [none]
+[debug] [2025-05-15T03:26:14.544Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) 200
+[debug] [2025-05-15T03:26:14.544Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default) {"name":"projects/creditcardtrackerapp/databases/(default)","uid":"11f8c3d0-b671-4dc3-9b15-42206da7a12b","createTime":"2025-05-13T04:58:17.923613Z","updateTime":"2025-05-13T04:58:17.923613Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-05-15T02:26:15.135863Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"etag":"IMnomNPDpI0DMK7qx7bCpI0D"}
+[debug] [2025-05-15T03:26:14.544Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:26:14.544Z] database_type: FIRESTORE_NATIVE
+[debug] [2025-05-15T03:26:14.544Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-15T03:26:14.544Z] > authorizing via signed-in user (kelvinsaldana98@gmail.com)
+[debug] [2025-05-15T03:26:14.544Z] [iam] checking project creditcardtrackerapp for permissions ["firebase.projects.get"]
+[debug] [2025-05-15T03:26:14.545Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:14.545Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:14.545Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions [none]
+[debug] [2025-05-15T03:26:14.545Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions x-goog-quota-user=projects/creditcardtrackerapp
+[debug] [2025-05-15T03:26:14.545Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[debug] [2025-05-15T03:26:14.775Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions 200
+[debug] [2025-05-15T03:26:14.775Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/creditcardtrackerapp:testIamPermissions {"permissions":["firebase.projects.get"]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[info] 
+[info] Firestore indexes allow you to perform complex queries while
+[info] maintaining performance that scales with the size of the result
+[info] set. You can keep index definitions in your project directory
+[info] and publish them with firebase deploy.
+[info] 
+[debug] [2025-05-15T03:26:28.713Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:28.713Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:28.713Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:28.713Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:28.714Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes [none]
+[debug] [2025-05-15T03:26:28.715Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* [none]
+[debug] [2025-05-15T03:26:28.974Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* 200
+[debug] [2025-05-15T03:26:28.974Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/fields?filter=indexConfig.usesAncestorConfig=false OR ttlConfig:* {"fields":[{"name":"projects/creditcardtrackerapp/databases/(default)/collectionGroups/__default__/fields/*","indexConfig":{"indexes":[{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","order":"ASCENDING"}],"state":"READY"},{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","order":"DESCENDING"}],"state":"READY"},{"queryScope":"COLLECTION","fields":[{"fieldPath":"*","arrayConfig":"CONTAINS"}],"state":"READY"}]}}]}
+[debug] [2025-05-15T03:26:29.121Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes 200
+[debug] [2025-05-15T03:26:29.121Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/creditcardtrackerapp/databases/(default)/collectionGroups/-/indexes {}
+[info] 
+=== Hosting Setup
+[debug] [2025-05-15T03:26:29.123Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:29.123Z] Checked if tokens are valid: true, expires at: 1747282120267
+[debug] [2025-05-15T03:26:29.124Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp [none]
+[debug] [2025-05-15T03:26:29.529Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp 200
+[debug] [2025-05-15T03:26:29.529Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/creditcardtrackerapp {"projectId":"creditcardtrackerapp","projectNumber":"936127293515","displayName":"CreditCardTrackerApp","name":"projects/creditcardtrackerapp","resources":{"hostingSite":"creditcardtrackerapp"},"state":"ACTIVE","etag":"1_37e25f8d-e254-403c-b0cd-6a8697518b50"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2025-05-15T03:26:44.229Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2025-05-15T03:26:44.316Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2025-05-15T03:26:44.316Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"11.7.3","browserURL":"https://www.gstatic.com/firebasejs/11.7.3/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/11.7.3/firebase.tgz"},"live":{"version":"11.7","browserURL":"https://www.gstatic.com/firebasejs/live/11.7/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/11.7/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/11.7.3/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/11.7.3/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/11.7.3/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth/cordova.js","auth/web-extension":"https://www.gstatic.com/firebasejs/11.7.3/firebase-auth/web-extension.js","functions":"https://www.gstatic.com/firebasejs/11.7.3/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/11.7.3/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/11.7.3/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/11.7.3/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/11.7.3/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/11.7.3/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/11.7.3/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/11.7.3/firebase-database.js","vertexai":"https://www.gstatic.com/firebasejs/11.7.3/firebase-vertexai.js","data-connect":"https://www.gstatic.com/firebasejs/11.7.3/firebase-data-connect.js","firestore.memory":"https://www.gstatic.com/firebasejs/11.7.3/firebase-firestore.memory.js"}}
+[debug] [2025-05-15T03:26:44.428Z] Error: ENOTDIR: not a directory, scandir 'C:\Users\kelvi\Documents\kelveloper\credit-card-tracker\build\web'
+    at Object.readdirSync (node:fs:1507:26)
+    at Object.createFileSync (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\fs-extra\lib\ensure\file.js:55:10)
+    at Config.writeProjectFile (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\config.js:162:12)
+    at Config.askWriteProjectFile (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\config.js:191:18)
+    at doSetup (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\features\hosting\index.js:156:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async init (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\index.js:41:9)
+    at async Command.initAction [as actionFn] (C:\Users\kelvi\AppData\Roaming\npm\node_modules\firebase-tools\lib\commands\init.js:187:5)
+[error] 
+[error] Error: An unexpected error has occurred.

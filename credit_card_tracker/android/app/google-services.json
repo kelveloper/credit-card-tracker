@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936127293515",
+    "project_id": "creditcardtrackerapp",
+    "storage_bucket": "creditcardtrackerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936127293515:android:7792a2dd1cc7797910c5ce",
+        "android_client_info": {
+          "package_name": "com.example.credit_card_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_8Kro-JqR4o9jgq4HQoTFqhsd4PgYOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

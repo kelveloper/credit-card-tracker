@@ -1,0 +1,72 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return request.auth.uid == userId;
+    }
+
+    function isValidCard() {
+      return request.resource.data.name is string &&
+             request.resource.data.name.size() > 0 &&
+             (request.resource.data.minimumPayment is number || 
+              request.resource.data.minimumPayment == null);
+    }
+
+    function isValidPayment() {
+      return request.resource.data.amount is number &&
+             request.resource.data.amount > 0 &&
+             request.resource.data.month >= 1 &&
+             request.resource.data.month <= 12 &&
+             request.resource.data.year is number;
+    }
+
+    // Users collection
+    match /users/{userId} {
+      allow read, write: if isOwner(userId);
+    }
+
+    // Cards collection (max 10 cards per user)
+    match /cards/{cardId} {
+      allow read: if isAuthenticated() && isOwner(resource.data.userId);
+      allow create: if isAuthenticated() && 
+                      isOwner(request.resource.data.userId) && 
+                      isValidCard() &&
+                      getAfter(/databases/$(database)/documents/users/$(request.auth.uid)).data.cardCount < 10;
+      allow update: if isAuthenticated() && 
+                      isOwner(resource.data.userId) && 
+                      isValidCard();
+      allow delete: if isAuthenticated() && isOwner(resource.data.userId);
+    }
+
+    // Monthly Balances collection
+    match /monthlyBalances/{balanceId} {
+      allow read: if isAuthenticated() && isOwner(resource.data.userId);
+      allow create, update: if isAuthenticated() && 
+                             isOwner(request.resource.data.userId) &&
+                             request.resource.data.initialBalance is number;
+      allow delete: if isAuthenticated() && isOwner(resource.data.userId);
+    }
+
+    // Payments collection
+    match /payments/{paymentId} {
+      allow read: if isAuthenticated() && isOwner(resource.data.userId);
+      allow create: if isAuthenticated() && 
+                      isOwner(request.resource.data.userId) &&
+                      isValidPayment();
+      allow update, delete: if isAuthenticated() && isOwner(resource.data.userId);
+    }
+
+    // Monthly Summaries collection
+    match /monthlySummaries/{summaryId} {
+      allow read: if isAuthenticated() && isOwner(resource.data.userId);
+      // Only allow system (Cloud Functions) to create/update summaries
+      allow create, update, delete: if false;
+    }
+  }
+}
