@@ -67,5 +67,30 @@ features/
 - Use `data/models/` for data classes (e.g., `credit_card.dart`).
 - Use `data/repositories/` for Firestore or API interaction logic.
 
+## Data Model Update for Dynamic Minimum Payment
+
+- Each card document should include:
+  - `original_minimum` (number): The minimum payment required for the month
+  - `minimum_paid` (number): The amount paid toward the minimum this month
+  - `minimum_remaining` (number): The remaining minimum required for the month (calculated as original_minimum - minimum_paid, min 0)
+  - `balance` (number): The current card balance
+  - `last_payment_date` (timestamp): Last time a payment was made
+
+- Each payment transaction should include:
+  - `amount` (number): Payment amount
+  - `applied_to_minimum` (number): Amount applied to minimum
+  - `applied_to_balance` (number): Amount applied to balance
+  - `date` (timestamp): Payment date
+
+## UI Update for Dynamic Minimum Payment
+
+- The dashboard should display, for each card:
+  - Card name
+  - Current balance
+  - Remaining minimum for the month (e.g., "Min left: $20")
+  - [Pay Now] button
+  - [Add Balance] button
+- The calculator and payment forms should use and update the remaining minimum in real time.
+
 ---
 This structure will help keep your codebase organized as you add more features! 

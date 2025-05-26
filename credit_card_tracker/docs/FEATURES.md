@@ -147,4 +147,14 @@ monthlySummaries: {
 ### Phase 4: Monthly Processing (Weeks 7-8)
 - Monthly summaries
 - Historical view
-- Final testing and deployment 
+- Final testing and deployment
+
+## Dynamic Minimum Payment Deduction
+
+- Each card tracks the original minimum payment for the month, the amount paid toward the minimum, and the remaining minimum required.
+- When a user makes a payment using the "Pay Now" button, the payment is deducted from both the card's balance and the remaining minimum for the month (until the minimum is $0).
+- If the payment exceeds the remaining minimum, the excess is applied to the balance only.
+- The payment allocation calculator uses the remaining minimum for each card when distributing payments.
+- The UI should display the remaining minimum for each card and update it in real time as payments are made.
+- Once the minimum is paid off for the month, further payments go only toward the balance.
+- The dashboard and calculator must always reflect the correct remaining minimum for each card. 

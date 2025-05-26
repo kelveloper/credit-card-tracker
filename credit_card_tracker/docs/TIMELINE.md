@@ -21,9 +21,9 @@
 - [x] Create Firestore security rules
 
 ### Week 4: UI/UX Sketching & Flutter Project Structure
-- [ ] Create wireframes/mockups focusing on simplified payment flow
-- [ ] Plan user flow and navigation
-- [ ] Organize Flutter project structure:
+- [x] Create wireframes/mockups focusing on simplified payment flow
+- [x] Plan user flow and navigation
+- [x] Organize Flutter project structure:
   - Directory organization
   - File naming conventions
   - Component hierarchy
