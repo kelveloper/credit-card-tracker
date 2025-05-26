@@ -3,6 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'shared/theme/app_theme.dart';
 import 'features/auth/screens/login_screen.dart';
 import 'features/auth/screens/register_screen.dart';
+import 'features/dashboard/screens/dashboard_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -27,10 +28,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Credit Card Tracker',
       theme: AppTheme.lightTheme,
-      home: const LoginScreen(),
+      home: const DashboardScreen(),
       routes: {
         '/login': (context) => const LoginScreen(),
         '/register': (context) => const RegisterScreen(),
+        '/dashboard': (context) => const DashboardScreen(),
       },
     );
   }
