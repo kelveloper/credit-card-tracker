@@ -9,7 +9,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyDxQYxQYxQYxQYxQYxQYxQYxQYxQYxQYxQY",
+      apiKey: "AIzaSyA4BfDYd282Rk-UySbmITtWVHXyjygbh20",
       authDomain: "creditcardtrackerapp.firebaseapp.com",
       projectId: "creditcardtrackerapp",
       storageBucket: "creditcardtrackerapp.appspot.com",
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Credit Card Tracker',
       theme: AppTheme.lightTheme,
-      home: const DashboardScreen(),
+      home: const LoginScreen(),
       routes: {
         '/login': (context) => const LoginScreen(),
         '/register': (context) => const RegisterScreen(),

@@ -29,11 +29,11 @@
   - Component hierarchy
 
 ### Week 5: Payment Allocation Logic Planning
-- [ ] Define allocation algorithms:
+- [x] Define allocation algorithms:
   - "Pay at least the minimum" strategy
   - "Split evenly" strategy
-- [ ] Document edge cases handling
-- [ ] Create flowcharts for payment logic
+- [x] Document edge cases handling
+- [x] Create flowcharts for payment logic
 
 ## Phase 2: Firebase Backend & Flutter Core (Weeks 6-14)
 
